@@ -1,2 +1,2 @@
-# School_Management_System
-2025 School Management System
+<h1><u>2025</u></h1>
+<h2> School Management System </h2>
